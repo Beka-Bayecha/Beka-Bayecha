@@ -23,12 +23,12 @@
 
 
 ---
-
-<p align="center" style="font-size:12px; color:#87CEEB; font-style:italic;">
-  💫 “The law of the LORD is perfect, converting the soul.<br>
-  The testimony of the LORD is sure, making wise the simple.”<br>
-  <span style="color:#B0E0E6;">— Psalms 19:7 💖</span>
+<p align="center" style="font-size:13px; font-style:italic; background: linear-gradient(90deg, #00FFFF, #8A2BE2, #FF69B4, #FFD700); -webkit-background-clip: text; color: transparent;">
+  ✨ “The law of the LORD is perfect, converting the soul.<br>
+  The testimony of the LORD is sure, making wise the simple.” ✨<br>
+  <b>— Psalms 19:7</b> 🙏
 </p>
+
 
 
 
