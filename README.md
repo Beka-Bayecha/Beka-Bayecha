@@ -93,9 +93,8 @@
 ---
 
 <p align="center">
-  <strong>
-    ✨ “Code with passion. Learn with curiosity. Build with purpose. Inspire with impact.” ✨
-  </strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=💫+Code+.+Learn+.+Build+.+Inspire+💫" alt="typing animation" />
 </p>
+
 
 
