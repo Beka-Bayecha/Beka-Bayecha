@@ -55,21 +55,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beka-Bayecha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beka-Bayecha&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Beka-Bayecha&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🎯 My Goal
 > ✨ **Vision:** To grow into a **versatile Full Stack & Mobile App Developer** who blends creativity with technology to craft meaningful digital experiences.  
 >  
