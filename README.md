@@ -118,7 +118,7 @@
 
 ---
 
-<h3 align="center">
+<h3>
   <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/main/assets/animated-gradient.gif" width="20" />
   <span style="font-weight: bold; font-size: 20px; color: #00FFFF;">
    💻 Code || Learn || Build || Inspire ✨
