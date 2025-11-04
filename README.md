@@ -92,23 +92,12 @@
 
 ---
 
-<div align="center">
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=28&duration=2200&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=💫+Code+•+Learn+•+Build+•+Inspire+💫" alt="Animated Code Learn Build Inspire" />
-</p>
-
-<!-- Glowing Gradient Text Below -->
-<h3>
-  <span style="background: linear-gradient(90deg, #00FFFF, #8A2BE2, #FF69B4, #FFD700); 
-               -webkit-background-clip: text; 
-               color: transparent; 
-               text-shadow: 0 0 10px #00FFFF, 0 0 20px #8A2BE2, 0 0 30px #FF69B4, 0 0 40px #FFD700;">
-    ✨ Keep Coding. Keep Growing. Keep Inspiring. ✨
+<h3 align="center">
+  <span style="background: linear-gradient(90deg, #00FFFF, #8A2BE2, #FF69B4); -webkit-background-clip: text; color: transparent; font-weight: bold;">
+    💫 Code • Learn • Build • Inspire 💫
   </span>
 </h3>
 
-</div>
 
 
 
