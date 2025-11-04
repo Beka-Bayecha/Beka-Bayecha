@@ -24,12 +24,12 @@
 
 ---
 
-<p align="center" style="font-size:13px; color:#00CED1;">
-  💡 <i>"The law of the LORD is perfect, converting the soul.<br>
+<p align="center" style="font-size:13px; color:#FFD700;">
+  ✨ <i>"The law of the LORD is perfect, converting the soul.<br>
   The testimony of the LORD is sure, making wise the simple."</i><br>
-  — <b>Psalms 19:7</b> 💫
+  — <b>Psalms 19:7</b> 🌟
 </p>
-  
+
 
 ---
 
