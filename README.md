@@ -6,12 +6,14 @@
 
 
 
+<!-- ⚡ Futuristic Animated Typing Text - Works Perfectly on GitHub -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=2500&pause=800&color=00FFFF,FF00FF,FFD700,00FF7F,FF4500&center=true&vCenter=true&repeat=true&width=800&lines=I'm+Beka+💻;Creative+Mind+⚡+Full+Stack+Dreamer;Coding+with+Passion+🔥;Building+Innovative+Web+%26+Mobile+Apps;Turning+Ideas+into+Reality+🚀" 
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2000&pause=700&color=00FFFF&background=00000000&center=true&vCenter=true&width=800&lines=I'm+Beka+💻;Creative+Mind+⚡+Full+Stack+Dreamer;Coding+with+Passion+🔥;Building+Innovative+Web+%26+Mobile+Apps;Turning+Ideas+into+Reality+🚀" 
     alt="Typing SVG" 
   />
 </p>
+
 
 
 
