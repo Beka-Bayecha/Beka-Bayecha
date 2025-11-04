@@ -115,9 +115,14 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2200&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Code%2C+Learn%2C+Build%2C+Inspire" alt="typing animation - Code, Learn, Build, Inspire" />
-</p>
+<h3 align="center">
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/main/assets/animated-gradient.gif" width="20" />
+  <span style="font-weight: bold; font-size: 20px; color: #00FFFF;">
+    Code • Learn • Build • Inspire
+  </span>
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/main/assets/animated-gradient.gif" width="20" />
+</h3>
+
 
 
 
