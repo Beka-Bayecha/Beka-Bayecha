@@ -3,10 +3,15 @@
 # 👋 Hi, I'm <span style="background: linear-gradient(90deg, #00FFFF, #8A2BE2, #FF69B4); -webkit-background-clip: text; color: transparent;">Beka</span>  
 ✨ A passionate developer from Ethiopia 🌍  
 
-<!-- Animated Typing Text -->
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=I%27m+Beka;A+Creative+Coder;Future+Full+Stack+Developer;Mobile+App+Enthusiast;Tech+Explorer+%26+Innovator;Building+Dreams+Through+Code" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1200&color=00FFFF,8A2BE2,FF69B4,FFD700,00FF7F&center=true&vCenter=true&width=700&lines=I'm+Beka;Creative+Coder+%7C+Full+Stack+Dreamer;Future+Full+Stack+Developer;Mobile+App+Enthusiast;Tech+Explorer+%26+Innovator;Building+Dreams+Through+Code" 
+    alt="Typing SVG" 
+  />
 </p>
+
 
 ---
 
