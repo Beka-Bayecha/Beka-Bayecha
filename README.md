@@ -92,4 +92,9 @@
 
 ---
 
-⭐ **"Code. Learn. Build. Inspire."**✨
+<h3 align="center">
+  <span style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF, 0 0 20px #8A2BE2, 0 0 30px #FF69B4;">
+    ⚡ Code • Learn • Build • Inspire ⚡
+  </span>
+</h3>
+
