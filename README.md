@@ -115,11 +115,10 @@
 
 ---
 
-<h3 align="center">
-  <span style="background: linear-gradient(90deg, #00FFFF, #8A2BE2, #FF69B4); -webkit-background-clip: text; color: transparent; font-weight: bold;">
-    💫 Code • Learn • Build • Inspire 💫
-  </span>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2200&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Code%2C+Learn%2C+Build%2C+Inspire" alt="typing animation - Code, Learn, Build, Inspire" />
+</p>
+
 
 
 
