@@ -24,9 +24,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Italianno&size=20&duration=6000&pause=3000&color=00FFFF,8A2BE2,FF69B4,FFD700&center=true&vCenter=true&width=600&lines=The+law+of+the+LORD+is+perfect,+converting+the+soul.;The+testimony+of+the+LORD+is+sure,+making+wise+the+simple.;Psalms+19:7" alt="Psalm 19:7 Animated"/>
+<p align="center" style="font-size:12px; color:#87CEEB; font-style:italic;">
+  💫 “The law of the LORD is perfect, converting the soul.<br>
+  The testimony of the LORD is sure, making wise the simple.”<br>
+  <span style="color:#B0E0E6;">— Psalms 19:7 💖</span>
 </p>
+
 
 
 
