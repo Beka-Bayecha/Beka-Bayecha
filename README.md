@@ -24,7 +24,7 @@
 
 ---
 
-💡 *“Code is not just my skill — it’s my art and my purpose.”* 💫  
+💡 *The law of LORD is Perfect,converting the soul:The testimony of the LORD is sure,making wise the simple ”* 💫  
 
 ---
 
