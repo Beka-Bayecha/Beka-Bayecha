@@ -10,11 +10,14 @@
 
 
 
-<h3 align="center">
-  <span style="background: linear-gradient(90deg, #00FFFF, #8A2BE2, #FF69B4); -webkit-background-clip: text; color: transparent; font-weight: bold;">
-    💫 Code • Learn • Build • Inspire 💫
-  </span>
-</h3>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1200&color=00FFFF,8A2BE2,FF69B4,FFD700,00FF7F&center=true&vCenter=true&width=700&lines=I'm+Beka;Creative+Coder+%7C+Full+Stack+Dreamer;Future+Full+Stack+Developer;Mobile+App+Enthusiast;Tech+Explorer+%26+Innovator;Building+Dreams+Through+Code" 
+    alt="Typing SVG" 
+  />
+</p>
+
 
 
 
@@ -118,7 +121,7 @@
 <h3 align="center">
   <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/main/assets/animated-gradient.gif" width="20" />
   <span style="font-weight: bold; font-size: 20px; color: #00FFFF;">
-    Code • Learn • Build • Inspire
+   💻 Code || Learn || Build || Inspire ✨
   </span>
   <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/main/assets/animated-gradient.gif" width="20" />
 </h3>
