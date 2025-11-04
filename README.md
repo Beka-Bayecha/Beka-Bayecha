@@ -10,12 +10,12 @@
 
 
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1200&color=1E90FF,8A2BE2,FF69B4,00FFFF&center=true&vCenter=true&width=700&lines=I'm+Beka;Creative+Coder+%7C+Full+Stack+Dreamer;Future+Full+Stack+Developer;Mobile+App+Enthusiast;Tech+Explorer+%26+Innovator;Building+Dreams+Through+Code" 
-    alt="Typing SVG" 
-  />
-</p>
+<h3 align="center">
+  <span style="background: linear-gradient(90deg, #00FFFF, #8A2BE2, #FF69B4); -webkit-background-clip: text; color: transparent; font-weight: bold;">
+    💫 Code • Learn • Build • Inspire 💫
+  </span>
+</h3>
+
 
 
 
