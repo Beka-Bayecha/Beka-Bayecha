@@ -123,8 +123,7 @@
   <span style="font-weight: bold; font-size: 20px; color: #00FFFF;">
    💻 Code || Learn || Build || Inspire ✨
   </span>
-  <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/main/assets/animated-gradient.gif" width="20" />
-</h3>
+
 
 
 
